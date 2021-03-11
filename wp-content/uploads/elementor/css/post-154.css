@@ -1,0 +1,26 @@
+.elementor-154 .elementor-element.elementor-element-4e99a53 .elementor-text-editor{text-align:left;}.elementor-154 .elementor-element.elementor-element-4e99a53{color:#F9F8F8;}.elementor-154 .elementor-element.elementor-element-4e99a53 > .elementor-widget-container{margin:-10px -10px 0px -10px;padding:8% 50% 8% 15%;background-image:url("http://localhost/celsia-spanish/wp-content/uploads/2021/03/banner-fondo-nuestro-reporte.png");}.elementor-154 .elementor-element.elementor-element-06ea0ca{margin-top:50px;margin-bottom:0px;}.elementor-154 .elementor-element.elementor-element-922eb71 .elementor-accordion .elementor-accordion-item{border-width:0px;}.elementor-154 .elementor-element.elementor-element-922eb71 .elementor-accordion .elementor-accordion-item .elementor-tab-content{border-width:0px;}.elementor-154 .elementor-element.elementor-element-922eb71 .elementor-accordion .elementor-accordion-item .elementor-tab-title.elementor-active{border-width:0px;}.elementor-154 .elementor-element.elementor-element-922eb71 .elementor-accordion-icon, .elementor-154 .elementor-element.elementor-element-922eb71 .elementor-accordion-title{color:#8A8B8B;}.elementor-154 .elementor-element.elementor-element-922eb71 .elementor-active .elementor-accordion-icon, .elementor-154 .elementor-element.elementor-element-922eb71 .elementor-active .elementor-accordion-title{color:#E17308;}.elementor-154 .elementor-element.elementor-element-23489e5f{margin-top:50px;margin-bottom:0px;}.elementor-154 .elementor-element.elementor-element-581b0e2b{color:#F8F2F2;}.elementor-154 .elementor-element.elementor-element-581b0e2b > .elementor-widget-container{margin:0px -10px 0px -10px;padding:40px 0px 40px 0px;background-image:url("http://localhost/celsia-spanish/wp-content/uploads/2021/03/banner-fondo-nuestro-reporte.png");}/* Start custom CSS for accordion, class: .elementor-element-922eb71 */.elementor-accordion-item {
+    margin-top: 20px;
+    border: none;
+}
+.elementor-tab-title {
+    background-color: #f8f8f8;
+    border-radius: 7px;
+    box-shadow: 1px 2px 4px #E3E1E0;
+}
+.list-accordion{
+    list-style: none;
+    margin: auto;
+    padding: 0;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: justify;
+}
+.list-accordion li {
+    margin-top: 15px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #E3E1E0;
+}
+.list-accordion h5 {
+    margin-bottom: 10px;
+}/* End custom CSS */
